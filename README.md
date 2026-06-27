@@ -4,6 +4,30 @@ Welcome to **Saket Kumar Kitchen**, a premium, glassmorphic dark-themed AI Cooki
 
 ---
 
+## 🎯 Overview & Use Cases
+
+### The Problem
+Cooking at home often forces you to juggle multiple disjointed factors: **matching ingredients** you already have, tracking **daily calorie intake**, keeping under a **financial budget**, and following **cooking steps**. Most recipe apps only handle one of these, leaving you to calculate costs, research ingredient substitutions, or manage separate shopping checklists.
+
+### The Solution: Saket Kumar Kitchen
+This application provides a **unified workspace** that bridges the gap between meal suggestion, calorie tracking, shopping cost feasibility, and cooking management.
+
+### Primary Use Cases:
+1.  **"Fridge-First" Meal Planning (The Fridge Cleaner)**:
+    *   *Scenario*: You have ingredients like `spinach, eggs` in your fridge and want to cook a meal without buying a long list of new items.
+    *   *Use Case*: Enter your base items. The AI ranks recipes to prioritize what you own and displays "Ingredients You Have" vs "Need to buy" on separate lists.
+2.  **Budget-Conscious Fitness Tracking (The Smart Saver)**:
+    *   *Scenario*: You want to stick to a high-protein diet (e.g., post-workout) but need to spend under $25 a day on groceries.
+    *   *Use Case*: Set your budget slider and select your day type. The app checks feasibility, alerts you if you are over budget, and provides **one-click ingredient swaps** (e.g., swapping a premium Ribeye for a Sirloin) to instantly lower your total.
+3.  **Active Grocery Shopping**:
+    *   *Scenario*: You are at the supermarket and need to buy extra ingredients for the week's plan.
+    *   *Use Case*: Open the app on your phone. As you place items in your shopping cart, check them off in the **Master Grocery Checklist**. The app dynamically subtracts their cost and updates your spending dials.
+4.  **Organized Kitchen Chores**:
+    *   *Scenario*: You are preparing the meals and need to track prep steps alongside general kitchen chores.
+    *   *Use Case*: Click "+ Add Steps" on the suggested recipes to load their directions into the **Master Cooking To-Do List**. Add custom chores (e.g., *"Preheat oven"*, *"Clean the blender"*) to track your complete cooking progress in one unified bar.
+
+---
+
 ## 🌟 Key Features
 
 1.  **AI Dish Recommendations**: Scans a pool of recipes to match the user's available base ingredients first, adjusting for day type (Busy, Workout, Sick, Relaxed), diet preference (Vegan, Vegetarian, Keto, Gluten-Free), and prep times.
